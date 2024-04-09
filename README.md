@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jyotish2002
+- 👋 Hi, I’m @Jyotish
 - 👀 I’m interested in software developing
 - 🌱 I’m currently learning btech CSE 2nd year
 - 💞️ I’m looking to collaborate on going project
