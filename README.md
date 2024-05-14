@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Jyotish2002/Jyotish2002/blob/main/bg.jpg)
+![logo](https://github.com/Jyotish2002/Jyotish2002/blob/main/bg.png)
 <h1 align="center">👋 Hi, I'm Jyotish</h1>
 <h3 align="center">👀 I’m interested in software developing</h3>
 
