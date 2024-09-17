@@ -2,7 +2,7 @@
 ![logo](https://github.com/Jyotish2002/Jyotish2002/blob/main/bg.png)
 <h1 align="center">👋 Hi, I'm Jyotish Yadav</h1>
 
-<h3 align="center">A passionate Full Stack Developer from India.</h3>
+<h3 align="center">A Passionate Full Stack Developer from India.</h3>
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
