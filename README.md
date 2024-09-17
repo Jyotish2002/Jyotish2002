@@ -10,11 +10,11 @@
 - 🌱 I’m currently learning **DSA,C++,Web development, Android development, Machine learning and Artificial intelligence.**
 - 🔭 I’m looking to contribute to **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://jyotishyadav.netlify.app/](https://jyotishyadav.netlify.app/)
+- 👨‍💻 All of my projects are available at [See here](https://jyotishyadav.netlify.app/)
 
 - 📫 How to reach me **jyotishyadavcse@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v_9l_mU0rYXFrvnUU2jpQl7LbxV00DeU/view](https://drive.google.com/file/d/1v_9l_mU0rYXFrvnUU2jpQl7LbxV00DeU/view)
+- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1snCz_eMQ2VIBF5OmZWJnVa7a6aSsbFwN/view?usp=sharing)
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
