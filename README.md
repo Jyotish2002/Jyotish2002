@@ -1,12 +1,14 @@
 
 ![logo](https://github.com/Jyotish2002/Jyotish2002/blob/main/bg.png)
-<h1 align="center">👋 Hi, I'm Jyotish</h1>
+<h1 align="center">👋 Hi, I'm Jyotish Yadav</h1>
+
+<h3 align="center">A passionate Full Stack Developer from India.</h3>
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
-<h3 align="center">👀 I’m interested in software developing</h3>
 
-- 🌱 I’m currently learning **DSA,C++,Web development, Android development, Machine learning and artificial intelligence.**
+- 🌱 I’m currently learning **DSA,C++,Web development, Android development, Machine learning and Artificial intelligence.**
+- 🔭 I’m looking to contribute to **Open Source**
 
 - 👨‍💻 All of my projects are available at [https://jyotishyadav.netlify.app/](https://jyotishyadav.netlify.app/)
 
