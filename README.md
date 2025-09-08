@@ -7,7 +7,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-- 🌱 I’m currently learning **DSA,C++,Web development, Android development, Machine learning and Artificial intelligence.**
+- 🌱 I’m currently learning **Machine learning and Artificial intelligence.**
 - 🔭 I’m looking to contribute to **Open Source**
 
 - 👨‍💻 All of my projects are available at [See here](https://jyotishyadav.netlify.app/)
